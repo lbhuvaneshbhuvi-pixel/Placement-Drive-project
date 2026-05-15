@@ -1,0 +1,10 @@
+{
+  "name": "employee-mgmt-system",
+  "version": "1.0.0",
+  "description": "Full-stack Employee Management System",
+  "scripts": {
+    "install-all": "cd backend && npm install",
+    "start": "cd backend && npm start",
+    "dev": "cd backend && npm run dev"
+  }
+}
